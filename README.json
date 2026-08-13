@@ -1,0 +1,484 @@
+{
+  "items": [
+    {
+      "description": "Production-ready Web Data APIs for Browser Automation & AI Agents.Collect structured data from Google Maps, YouTube, Instagram, Amazon, Google Search, and more with ready-to-use APIs and open-source Workers.\n🎁 Start for free. No setup required.👉 Try CoreClaw: https://coreclaw.com",
+      "items": [],
+      "title": "🚀 Sponsored by CoreClaw"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Puppeteer",
+          "description": "High level API in Node.js to control Chrome.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Puppeteer-Extra",
+              "description": "Plugin support for Puppeteer and several plugins including reCAPTCHA and adblocker.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2024-07-18T12:28:02Z",
+                "owner": "berstend",
+                "repo": "puppeteer-extra",
+                "stars": 7396
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pyppeteer",
+              "description": "Unofficial port of Puppeteer to Python.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2021-08-05T11:47:49Z",
+                "owner": "miyakogi",
+                "repo": "pyppeteer",
+                "stars": 3549
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T19:02:54Z",
+            "owner": "puppeteer",
+            "repo": "puppeteer",
+            "stars": 95461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Playwright",
+          "description": "Cross-browser web automation platform for Node.js.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "invisible-playwright",
+              "description": "Drop-in Playwright wrapper that launches a stealth-patched Firefox 150 binary instead of vanilla Firefox.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-13T18:21:46Z",
+                "owner": "feder-cr",
+                "repo": "invisible_playwright",
+                "stars": 1885
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T22:03:51Z",
+            "owner": "microsoft",
+            "repo": "playwright",
+            "stars": 94485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PhantomJS",
+          "description": "Headless browser for Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2022-11-26T19:43:12Z",
+            "owner": "ariya",
+            "repo": "phantomjs",
+            "stars": 29455
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nightmare",
+          "description": "High-level browser automation built on top of Electron.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-20T17:54:13Z",
+            "owner": "segment-boneyard",
+            "repo": "nightmare",
+            "stars": 19779
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chromedp",
+          "description": "Browser automation through Chrome DevTools Protocol fully implemented in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-14T21:56:36Z",
+            "owner": "chromedp",
+            "repo": "chromedp",
+            "stars": 13251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Capybara",
+          "description": "Driver-agnostic tool and DSL to write automation tests in Ruby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-13T14:52:49Z",
+            "owner": "teamcapybara",
+            "repo": "capybara",
+            "stars": 10169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Codeception",
+          "description": "PHP end-to-end testing with BDD style.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-07T03:47:09Z",
+            "owner": "Codeception",
+            "repo": "Codeception",
+            "stars": 4861
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeceptJS",
+          "description": "BDD style tests with support for multiple headless browsers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T10:22:07Z",
+            "owner": "codeceptjs",
+            "repo": "CodeceptJS",
+            "stars": 4240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Erik",
+          "description": "Headless browser for functional tests in Swift, based on WebKit and Kanna.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2022-08-05T13:02:22Z",
+            "owner": "phimage",
+            "repo": "Erik",
+            "stars": 613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleBrowser",
+          "description": "Browser automation engine build on .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-11-26T16:57:58Z",
+            "owner": "SimpleBrowserDotNet",
+            "repo": "SimpleBrowser",
+            "stars": 365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wendigo",
+          "description": "Test-oriented automation tool built on top of Puppeteer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-08T12:06:25Z",
+            "owner": "angrykoala",
+            "repo": "wendigo",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebParsy",
+          "description": "Web scraping library and CLI using Puppeteer and YAML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-30T19:21:03Z",
+            "owner": "joseconstela",
+            "repo": "webparsy",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Selenium",
+          "description": "Suite to automate multiple browsers in different platforms.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PHP-Webdriver",
+              "description": "PHP Client for Selenium/WebDriver.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "PHP",
+                "last_commit": "2026-07-24T12:36:03Z",
+                "owner": "php-webdriver",
+                "repo": "php-webdriver",
+                "stars": 5200
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Browser-Use",
+          "description": "Python library and service to automate browsing using AI agents and Chrome DevTools Protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T19:28:15Z",
+            "owner": "browser-use",
+            "repo": "browser-use",
+            "stars": 109116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Playwright MCP",
+          "description": "Provides browser automation capabilities using Playwright",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:16:20Z",
+            "owner": "microsoft",
+            "repo": "playwright-mcp",
+            "stars": 36095
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skyvern",
+          "description": "Use prompts + AI to automate actions in the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T22:43:52Z",
+            "owner": "Skyvern-AI",
+            "repo": "skyvern",
+            "stars": 22744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Openwork",
+          "description": "MIT-licensed, open alternative to Anthropic's Cowork. Supports multiple LLM providers for launching computer-use agents to automate browser workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-13T10:56:45Z",
+            "owner": "accomplish-ai",
+            "repo": "coworker",
+            "stars": 10951
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CamoFox Browser",
+          "description": "Stealth headless browser for AI agents built on a Firefox fork with C++ fingerprint spoofing to bypass Cloudflare, Akamai, and bot detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-04T02:43:47Z",
+            "owner": "jo-inc",
+            "repo": "camofox-browser",
+            "stars": 8566
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Steel Browser",
+          "description": "Open-source browser sandbox and API for AI agents with session-backed automation, screenshots, PDFs, and anti-bot tooling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T23:12:01Z",
+            "owner": "steel-dev",
+            "repo": "steel-browser",
+            "stars": 7477
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Libretto",
+          "description": "Open-source Playwright-based toolkit and CLI for coding agents to inspect pages, capture network traffic, record actions, and generate automation scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T22:34:11Z",
+            "owner": "saffron-health",
+            "repo": "libretto",
+            "stars": 871
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "onUI",
+          "description": "Browser extension and MCP server for annotation-first UI pair programming with AI agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-28T14:55:44Z",
+            "owner": "onllm-dev",
+            "repo": "onUI",
+            "stars": 91
+          }
+        }
+      ],
+      "title": "AI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cheerio",
+          "description": "jQuery implementation in Node.js for DOM emulation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T03:16:49Z",
+            "owner": "cheeriojs",
+            "repo": "cheerio",
+            "stars": 30451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsdom",
+          "description": "DOM implementation in Node.js to emulate real browsers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T01:59:05Z",
+            "owner": "jsdom",
+            "repo": "jsdom",
+            "stars": 21646
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node-crawler",
+          "description": "Web Crawler/Spider for Node.js using server-side DOM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-18T15:50:22Z",
+            "owner": "bda-research",
+            "repo": "node-crawler",
+            "stars": 6798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "X-Ray",
+          "description": "Web Scraper with composable API and extra drivers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T20:45:57Z",
+            "owner": "matthewmueller",
+            "repo": "x-ray",
+            "stars": 5902
+          }
+        }
+      ],
+      "title": "Related tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Web Scraping",
+          "description": "Comprehensive list of tools, programming libraries and web services used in web scraping.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-07-28T20:26:17Z",
+            "owner": "lorien",
+            "repo": "awesome-web-scraping",
+            "stars": 8051
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HeadlessBrowsers",
+          "description": "Detailed list of multiple headless browsers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-12T07:30:27Z",
+            "owner": "dhamaniasad",
+            "repo": "HeadlessBrowsers",
+            "stars": 6677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Selenium",
+          "description": "Curated list of Selenium resources and related tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-17T19:57:25Z",
+            "owner": "christian-bromann",
+            "repo": "awesome-selenium",
+            "stars": 1132
+          }
+        }
+      ],
+      "title": "Resources"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T23:04:34.434Z",
+    "original_repository": "angrykoala/awesome-browser-automation",
+    "original_repository_sha": "e5cf85a507a7183f782b60379efcc466dac8e2ab",
+    "enhanced_repository": "enhansome/enhansome-browser-automation",
+    "enhanced_repository_description": null,
+    "title": "Awesome Browser Automation with stars"
+  }
+}
