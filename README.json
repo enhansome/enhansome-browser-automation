@@ -45,10 +45,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T13:04:58Z",
+            "last_commit": "2026-08-18T19:02:43Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95459
+            "stars": 95463
           }
         },
         {
@@ -64,20 +64,20 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-17T20:12:23Z",
+                "last_commit": "2026-08-18T18:57:36Z",
                 "owner": "feder-cr",
                 "repo": "invisible_playwright",
-                "stars": 1897
+                "stars": 1903
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T21:47:22Z",
+            "last_commit": "2026-08-18T22:05:03Z",
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 94639
+            "stars": 94701
           }
         },
         {
@@ -91,7 +91,7 @@
             "last_commit": "2022-11-26T19:43:12Z",
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29450
+            "stars": 29449
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2024-04-20T17:54:13Z",
             "owner": "segment-boneyard",
             "repo": "nightmare",
-            "stars": 19772
+            "stars": 19771
           }
         },
         {
@@ -119,7 +119,7 @@
             "last_commit": "2026-07-14T21:56:36Z",
             "owner": "chromedp",
             "repo": "chromedp",
-            "stars": 13253
+            "stars": 13255
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-07T03:47:09Z",
             "owner": "Codeception",
             "repo": "Codeception",
-            "stars": 4861
+            "stars": 4862
           }
         },
         {
@@ -255,10 +255,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T18:40:31Z",
+            "last_commit": "2026-08-18T17:07:08Z",
             "owner": "browser-use",
             "repo": "browser-use",
-            "stars": 109524
+            "stars": 109649
           }
         },
         {
@@ -269,10 +269,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T20:16:20Z",
+            "last_commit": "2026-08-17T22:52:05Z",
             "owner": "microsoft",
             "repo": "playwright-mcp",
-            "stars": 36214
+            "stars": 36250
           }
         },
         {
@@ -283,10 +283,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T00:19:48Z",
+            "last_commit": "2026-08-18T17:18:54Z",
             "owner": "Skyvern-AI",
             "repo": "skyvern",
-            "stars": 22772
+            "stars": 22779
           }
         },
         {
@@ -314,7 +314,7 @@
             "last_commit": "2026-08-04T02:43:47Z",
             "owner": "jo-inc",
             "repo": "camofox-browser",
-            "stars": 8659
+            "stars": 8677
           }
         },
         {
@@ -328,7 +328,7 @@
             "last_commit": "2026-08-05T23:12:01Z",
             "owner": "steel-dev",
             "repo": "steel-browser",
-            "stars": 7501
+            "stars": 7504
           }
         },
         {
@@ -339,7 +339,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T20:47:18Z",
+            "last_commit": "2026-08-18T20:38:14Z",
             "owner": "saffron-health",
             "repo": "libretto",
             "stars": 875
@@ -373,7 +373,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T03:19:21Z",
+            "last_commit": "2026-08-18T03:16:29Z",
             "owner": "cheeriojs",
             "repo": "cheerio",
             "stars": 30454
@@ -387,10 +387,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T04:54:41Z",
+            "last_commit": "2026-08-18T07:33:16Z",
             "owner": "jsdom",
             "repo": "jsdom",
-            "stars": 21652
+            "stars": 21651
           }
         },
         {
@@ -418,7 +418,7 @@
             "last_commit": "2026-08-02T20:45:57Z",
             "owner": "matthewmueller",
             "repo": "x-ray",
-            "stars": 5903
+            "stars": 5904
           }
         }
       ],
@@ -466,7 +466,7 @@
             "last_commit": "2026-03-17T19:57:25Z",
             "owner": "christian-bromann",
             "repo": "awesome-selenium",
-            "stars": 1132
+            "stars": 1131
           }
         }
       ],
@@ -474,7 +474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T22:43:16.327Z",
+    "last_updated": "2026-08-18T22:43:23.075Z",
     "original_repository": "angrykoala/awesome-browser-automation",
     "original_repository_sha": "e5cf85a507a7183f782b60379efcc466dac8e2ab",
     "enhanced_repository": "enhansome/enhansome-browser-automation",
