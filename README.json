@@ -35,7 +35,7 @@
                 "last_commit": "2021-08-05T11:47:49Z",
                 "owner": "miyakogi",
                 "repo": "pyppeteer",
-                "stars": 3549
+                "stars": 3550
               }
             }
           ],
@@ -46,7 +46,7 @@
             "last_commit": "2026-08-21T14:21:31Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95482
+            "stars": 95489
           }
         },
         {
@@ -63,7 +63,7 @@
                 "archived": false,
                 "id": 1237338198,
                 "language": "Python",
-                "last_commit": "2026-08-19T22:14:13Z",
+                "last_commit": "2026-08-22T07:00:07Z",
                 "owner": "feder-cr",
                 "repo": "invisible_playwright",
                 "stars": 1921
@@ -74,10 +74,10 @@
             "archived": false,
             "id": 221981891,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T19:10:21Z",
+            "last_commit": "2026-08-22T03:59:22Z",
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 94912
+            "stars": 94968
           }
         },
         {
@@ -92,7 +92,7 @@
             "last_commit": "2022-11-26T19:43:12Z",
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29449
+            "stars": 29451
           }
         },
         {
@@ -107,7 +107,7 @@
             "last_commit": "2024-04-20T17:54:13Z",
             "owner": "segment-boneyard",
             "repo": "nightmare",
-            "stars": 19771
+            "stars": 19770
           }
         },
         {
@@ -137,7 +137,7 @@
             "last_commit": "2026-07-13T14:52:49Z",
             "owner": "teamcapybara",
             "repo": "capybara",
-            "stars": 10171
+            "stars": 10170
           }
         },
         {
@@ -167,7 +167,7 @@
             "last_commit": "2026-08-21T21:27:39Z",
             "owner": "codeceptjs",
             "repo": "CodeceptJS",
-            "stars": 4241
+            "stars": 4240
           }
         },
         {
@@ -247,7 +247,7 @@
                 "last_commit": "2026-08-14T12:20:47Z",
                 "owner": "php-webdriver",
                 "repo": "php-webdriver",
-                "stars": 5200
+                "stars": 5199
               }
             }
           ]
@@ -263,10 +263,10 @@
                 "archived": false,
                 "id": 881458615,
                 "language": "Python",
-                "last_commit": "2026-08-21T00:00:12Z",
+                "last_commit": "2026-08-22T22:38:54Z",
                 "owner": "browser-use",
                 "repo": "browser-use",
-                "stars": 110017
+                "stars": 110141
               }
             },
             {
@@ -278,10 +278,10 @@
                 "archived": false,
                 "id": 952688112,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T17:47:50Z",
+                "last_commit": "2026-08-21T22:46:04Z",
                 "owner": "microsoft",
                 "repo": "playwright-mcp",
-                "stars": 36338
+                "stars": 36365
               }
             },
             {
@@ -293,10 +293,10 @@
                 "archived": false,
                 "id": 764723738,
                 "language": "Python",
-                "last_commit": "2026-08-21T22:29:45Z",
+                "last_commit": "2026-08-22T22:35:27Z",
                 "owner": "Skyvern-AI",
                 "repo": "skyvern",
-                "stars": 22824
+                "stars": 22832
               }
             },
             {
@@ -311,7 +311,7 @@
                 "last_commit": "2026-08-13T10:56:45Z",
                 "owner": "accomplish-ai",
                 "repo": "coworker",
-                "stars": 10943
+                "stars": 10941
               }
             },
             {
@@ -326,7 +326,7 @@
                 "last_commit": "2026-08-19T20:30:53Z",
                 "owner": "jo-inc",
                 "repo": "camofox-browser",
-                "stars": 8764
+                "stars": 8783
               }
             },
             {
@@ -341,7 +341,7 @@
                 "last_commit": "2026-08-19T21:49:36Z",
                 "owner": "steel-dev",
                 "repo": "steel-browser",
-                "stars": 7522
+                "stars": 7524
               }
             },
             {
@@ -371,7 +371,7 @@
                 "last_commit": "2026-04-28T14:55:44Z",
                 "owner": "onllm-dev",
                 "repo": "onUI",
-                "stars": 94
+                "stars": 95
               }
             }
           ],
@@ -393,7 +393,7 @@
                 "last_commit": "2026-08-21T22:28:26Z",
                 "owner": "cheeriojs",
                 "repo": "cheerio",
-                "stars": 30460
+                "stars": 30462
               }
             },
             {
@@ -405,7 +405,7 @@
                 "archived": false,
                 "id": 478584,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T00:20:31Z",
+                "last_commit": "2026-08-22T02:39:36Z",
                 "owner": "jsdom",
                 "repo": "jsdom",
                 "stars": 21657
@@ -464,7 +464,7 @@
             "last_commit": "2026-08-19T11:05:21Z",
             "owner": "lorien",
             "repo": "awesome-web-scraping",
-            "stars": 8128
+            "stars": 8127
           }
         },
         {
@@ -502,7 +502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T22:43:21.917Z",
+    "last_updated": "2026-08-22T22:40:58.538Z",
     "original_repository": "angrykoala/awesome-browser-automation",
     "original_repository_id": 150856889,
     "original_repository_sha": "e5cf85a507a7183f782b60379efcc466dac8e2ab",
