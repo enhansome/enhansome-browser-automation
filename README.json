@@ -80,7 +80,7 @@
             "open_issues": 263,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95515,
+            "stars": 95516,
             "topics": [
               "automation",
               "chrome",
@@ -113,7 +113,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-08-29T03:15:05Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "feder-cr",
                 "repo": "invisible_playwright",
                 "stars": 1946,
@@ -328,7 +328,7 @@
             "open_issues": 220,
             "owner": "codeceptjs",
             "repo": "CodeceptJS",
-            "stars": 4242,
+            "stars": 4243,
             "topics": [
               "acceptance-testing",
               "bdd",
@@ -415,7 +415,7 @@
             "open_issues": 21,
             "owner": "angrykoala",
             "repo": "wendigo",
-            "stars": 150,
+            "stars": 151,
             "topics": [
               "browser",
               "browser-automation",
@@ -510,10 +510,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-29T02:08:30Z",
-                "open_issues": 386,
+                "open_issues": 387,
                 "owner": "browser-use",
                 "repo": "browser-use",
-                "stars": 111591,
+                "stars": 111596,
                 "topics": [
                   "ai-agents",
                   "ai-tools",
@@ -622,10 +622,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-08-25T03:33:21Z",
-                "open_issues": 80,
+                "open_issues": 82,
                 "owner": "jo-inc",
                 "repo": "camofox-browser",
-                "stars": 8947,
+                "stars": 8948,
                 "topics": [
                   "ai-agent",
                   "anti-bot",
@@ -744,7 +744,7 @@
                 "open_issues": 57,
                 "owner": "cheeriojs",
                 "repo": "cheerio",
-                "stars": 30471,
+                "stars": 30469,
                 "topics": [
                   "cheerio",
                   "dom",
@@ -940,7 +940,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:43:32.941Z",
+    "last_updated": "2026-08-29T04:41:29.951Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome browser automation tools and resources",
