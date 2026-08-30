@@ -76,11 +76,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T05:38:40Z",
+            "last_commit": "2026-08-30T00:07:06Z",
             "open_issues": 263,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95516,
+            "stars": 95523,
             "topics": [
               "automation",
               "chrome",
@@ -112,11 +112,11 @@
                 "id": 1237338198,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-29T03:15:05Z",
+                "last_commit": "2026-08-30T00:21:20Z",
                 "open_issues": 4,
                 "owner": "feder-cr",
                 "repo": "invisible_playwright",
-                "stars": 1946,
+                "stars": 1952,
                 "topics": [
                   "anti-bot",
                   "anti-detect-browser",
@@ -151,10 +151,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-08-29T01:43:34Z",
-            "open_issues": 167,
+            "open_issues": 173,
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 95316,
+            "stars": 95347,
             "topics": [
               "automation",
               "chrome",
@@ -217,7 +217,7 @@
             "open_issues": 202,
             "owner": "segment-boneyard",
             "repo": "nightmare",
-            "stars": 19769,
+            "stars": 19770,
             "topics": [
               "browser",
               "chrome",
@@ -273,7 +273,7 @@
             "open_issues": 21,
             "owner": "teamcapybara",
             "repo": "capybara",
-            "stars": 10170,
+            "stars": 10171,
             "topics": [
               "hacktoberfest"
             ]
@@ -509,11 +509,11 @@
                 "id": 881458615,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-29T02:08:30Z",
-                "open_issues": 387,
+                "last_commit": "2026-08-29T18:08:42Z",
+                "open_issues": 392,
                 "owner": "browser-use",
                 "repo": "browser-use",
-                "stars": 111596,
+                "stars": 111668,
                 "topics": [
                   "ai-agents",
                   "ai-tools",
@@ -542,7 +542,7 @@
                 "open_issues": 4,
                 "owner": "microsoft",
                 "repo": "playwright-mcp",
-                "stars": 36592,
+                "stars": 36609,
                 "topics": [
                   "mcp",
                   "playwright"
@@ -562,11 +562,11 @@
                 "id": 764723738,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-29T00:41:54Z",
-                "open_issues": 222,
+                "last_commit": "2026-08-30T00:11:18Z",
+                "open_issues": 221,
                 "owner": "Skyvern-AI",
                 "repo": "skyvern",
-                "stars": 22876,
+                "stars": 22878,
                 "topics": [
                   "ai",
                   "api",
@@ -604,7 +604,7 @@
                 "open_issues": 13,
                 "owner": "accomplish-ai",
                 "repo": "coworker",
-                "stars": 10928,
+                "stars": 10925,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:08:44.950Z"
@@ -622,10 +622,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-08-25T03:33:21Z",
-                "open_issues": 82,
+                "open_issues": 90,
                 "owner": "jo-inc",
                 "repo": "camofox-browser",
-                "stars": 8948,
+                "stars": 8962,
                 "topics": [
                   "ai-agent",
                   "anti-bot",
@@ -662,7 +662,7 @@
                 "open_issues": 68,
                 "owner": "steel-dev",
                 "repo": "steel-browser",
-                "stars": 7556,
+                "stars": 7561,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -744,7 +744,7 @@
                 "open_issues": 57,
                 "owner": "cheeriojs",
                 "repo": "cheerio",
-                "stars": 30469,
+                "stars": 30471,
                 "topics": [
                   "cheerio",
                   "dom",
@@ -773,10 +773,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-08-26T06:06:35Z",
-                "open_issues": 407,
+                "open_issues": 409,
                 "owner": "jsdom",
                 "repo": "jsdom",
-                "stars": 21663,
+                "stars": 21664,
                 "topics": [
                   "dom-apis",
                   "html",
@@ -861,10 +861,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T11:43:10Z",
-            "open_issues": 0,
+            "open_issues": 2,
             "owner": "lorien",
             "repo": "awesome-web-scraping",
-            "stars": 8137,
+            "stars": 8139,
             "topics": [
               "captcha-bypass",
               "captcha-recaptcha",
@@ -900,7 +900,7 @@
             "open_issues": 20,
             "owner": "dhamaniasad",
             "repo": "HeadlessBrowsers",
-            "stars": 6688,
+            "stars": 6689,
             "topics": [
               "automation",
               "browser",
@@ -940,7 +940,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:41:29.951Z",
+    "last_updated": "2026-08-30T00:22:11.383Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome browser automation tools and resources",
@@ -949,7 +949,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-07-28T14:46:02Z",
-      "open_issues": 19,
+      "open_issues": 18,
       "owner": "angrykoala",
       "repo": "awesome-browser-automation",
       "stars": 634,
