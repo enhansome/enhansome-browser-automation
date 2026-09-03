@@ -5,6 +5,86 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Playwright",
+          "description": "Cross-browser web automation platform for Node.js.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "invisible-playwright",
+              "description": "Drop-in Playwright wrapper that launches a stealth-patched Firefox 150 binary instead of vanilla Firefox.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Free antidetect browser stealth for Playwright: undetected headless Firefox fingerprint. Python scraping, recaptcha and bot detection bypass. Open source",
+                "homepage": null,
+                "id": 1237338198,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-02T23:32:04Z",
+                "open_issues": 5,
+                "owner": "feder-cr",
+                "repo": "invisible_playwright",
+                "stars": 1962,
+                "topics": [
+                  "anti-bot",
+                  "anti-detect-browser",
+                  "antidetect",
+                  "automation",
+                  "bot-detection",
+                  "browser-automation",
+                  "browser-fingerprinting",
+                  "cloudflare",
+                  "crawler",
+                  "fingerprint",
+                  "fingerprintjs",
+                  "firefox",
+                  "headless-browser",
+                  "playwright",
+                  "proxy",
+                  "python",
+                  "scraping",
+                  "selenium",
+                  "stealth",
+                  "web-scraping"
+                ]
+              },
+              "first_seen": "2026-08-28T06:08:44.950Z"
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. ",
+            "homepage": "https://playwright.dev",
+            "id": 221981891,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-02T22:36:10Z",
+            "open_issues": 185,
+            "owner": "microsoft",
+            "repo": "playwright",
+            "stars": 95540,
+            "topics": [
+              "automation",
+              "chrome",
+              "chromium",
+              "e2e-testing",
+              "electron",
+              "end-to-end-testing",
+              "firefox",
+              "javascript",
+              "playwright",
+              "test",
+              "test-automation",
+              "testing",
+              "testing-tools",
+              "web",
+              "webkit"
+            ]
+          },
+          "first_seen": "2026-08-28T06:08:44.950Z"
+        },
+        {
+          "node_type": "item",
           "title": "Puppeteer",
           "description": "High level API in Node.js to control Chrome.",
           "children": [
@@ -24,7 +104,7 @@
                 "open_issues": 275,
                 "owner": "berstend",
                 "repo": "puppeteer-extra",
-                "stars": 7396,
+                "stars": 7398,
                 "topics": [
                   "automation",
                   "chrome",
@@ -76,11 +156,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T16:03:04Z",
-            "open_issues": 262,
+            "last_commit": "2026-09-03T00:17:44Z",
+            "open_issues": 264,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95534,
+            "stars": 95537,
             "topics": [
               "automation",
               "chrome",
@@ -91,86 +171,6 @@
               "node-module",
               "testing",
               "web"
-            ]
-          },
-          "first_seen": "2026-08-28T06:08:44.950Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Playwright",
-          "description": "Cross-browser web automation platform for Node.js.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "invisible-playwright",
-              "description": "Drop-in Playwright wrapper that launches a stealth-patched Firefox 150 binary instead of vanilla Firefox.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Free antidetect browser stealth for Playwright: undetected headless Firefox fingerprint. Python scraping, recaptcha and bot detection bypass. Open source",
-                "homepage": null,
-                "id": 1237338198,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-09-01T07:00:07Z",
-                "open_issues": 5,
-                "owner": "feder-cr",
-                "repo": "invisible_playwright",
-                "stars": 1959,
-                "topics": [
-                  "anti-bot",
-                  "anti-detect-browser",
-                  "antidetect",
-                  "automation",
-                  "bot-detection",
-                  "browser-automation",
-                  "browser-fingerprinting",
-                  "cloudflare",
-                  "crawler",
-                  "fingerprint",
-                  "fingerprintjs",
-                  "firefox",
-                  "headless-browser",
-                  "playwright",
-                  "proxy",
-                  "python",
-                  "scraping",
-                  "selenium",
-                  "stealth",
-                  "web-scraping"
-                ]
-              },
-              "first_seen": "2026-08-28T06:08:44.950Z"
-            }
-          ],
-          "repo_info": {
-            "archived": false,
-            "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. ",
-            "homepage": "https://playwright.dev",
-            "id": 221981891,
-            "language": "TypeScript",
-            "license": "Apache-2.0",
-            "last_commit": "2026-09-01T21:58:33Z",
-            "open_issues": 176,
-            "owner": "microsoft",
-            "repo": "playwright",
-            "stars": 95493,
-            "topics": [
-              "automation",
-              "chrome",
-              "chromium",
-              "e2e-testing",
-              "electron",
-              "end-to-end-testing",
-              "firefox",
-              "javascript",
-              "playwright",
-              "test",
-              "test-automation",
-              "testing",
-              "testing-tools",
-              "web",
-              "webkit"
             ]
           },
           "first_seen": "2026-08-28T06:08:44.950Z"
@@ -191,7 +191,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29441,
+            "stars": 29440,
             "topics": [
               "automation",
               "headless",
@@ -217,7 +217,7 @@
             "open_issues": 202,
             "owner": "segment-boneyard",
             "repo": "nightmare",
-            "stars": 19771,
+            "stars": 19769,
             "topics": [
               "browser",
               "chrome",
@@ -244,7 +244,7 @@
             "open_issues": 179,
             "owner": "chromedp",
             "repo": "chromedp",
-            "stars": 13267,
+            "stars": 13269,
             "topics": [
               "chrome",
               "chrome-debugging-protocol",
@@ -478,10 +478,10 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-08-14T12:20:47Z",
-                "open_issues": 30,
+                "open_issues": 32,
                 "owner": "php-webdriver",
                 "repo": "php-webdriver",
-                "stars": 5199,
+                "stars": 5200,
                 "topics": [
                   "php-webdriver",
                   "selenium",
@@ -509,11 +509,11 @@
                 "id": 881458615,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-01T00:37:36Z",
+                "last_commit": "2026-09-02T23:11:58Z",
                 "open_issues": 399,
                 "owner": "browser-use",
                 "repo": "browser-use",
-                "stars": 111977,
+                "stars": 112085,
                 "topics": [
                   "ai-agents",
                   "ai-tools",
@@ -538,11 +538,11 @@
                 "id": 952688112,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T03:24:23Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-02T21:01:16Z",
+                "open_issues": 2,
                 "owner": "microsoft",
                 "repo": "playwright-mcp",
-                "stars": 36714,
+                "stars": 36742,
                 "topics": [
                   "mcp",
                   "playwright"
@@ -562,11 +562,11 @@
                 "id": 764723738,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-02T00:11:42Z",
-                "open_issues": 215,
+                "last_commit": "2026-09-03T00:12:27Z",
+                "open_issues": 217,
                 "owner": "Skyvern-AI",
                 "repo": "skyvern",
-                "stars": 22904,
+                "stars": 22914,
                 "topics": [
                   "ai",
                   "api",
@@ -622,10 +622,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-08-25T03:33:21Z",
-                "open_issues": 99,
+                "open_issues": 100,
                 "owner": "jo-inc",
                 "repo": "camofox-browser",
-                "stars": 9023,
+                "stars": 9039,
                 "topics": [
                   "ai-agent",
                   "anti-bot",
@@ -658,11 +658,11 @@
                 "id": 882026761,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-25T19:41:14Z",
-                "open_issues": 66,
+                "last_commit": "2026-09-02T23:57:39Z",
+                "open_issues": 67,
                 "owner": "steel-dev",
                 "repo": "steel-browser",
-                "stars": 7578,
+                "stars": 7583,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -672,6 +672,35 @@
                 ]
               },
               "first_seen": "2026-08-28T06:08:44.950Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Webcmd",
+              "description": "CLI that learns a site's navigation once and compiles it into reusable deterministic commands for AI agents.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The Browser Infra that learns and cuts token spend by upto 90%",
+                "homepage": "https://webcmd.dev",
+                "id": 1287114669,
+                "language": "TypeScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-02T10:03:59Z",
+                "open_issues": 32,
+                "owner": "agentrhq",
+                "repo": "webcmd",
+                "stars": 1564,
+                "topics": [
+                  "ai-agents",
+                  "browser-automation",
+                  "browser-use",
+                  "cli",
+                  "developer-tools",
+                  "playwright",
+                  "self-learning-ai"
+                ]
+              },
+              "first_seen": "2026-09-03T00:18:30.098Z"
             },
             {
               "node_type": "item",
@@ -740,11 +769,11 @@
                 "id": 2541284,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-01T03:19:05Z",
-                "open_issues": 59,
+                "last_commit": "2026-09-02T23:16:35Z",
+                "open_issues": 51,
                 "owner": "cheeriojs",
                 "repo": "cheerio",
-                "stars": 30475,
+                "stars": 30474,
                 "topics": [
                   "cheerio",
                   "dom",
@@ -772,11 +801,11 @@
                 "id": 478584,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-01T14:10:09Z",
-                "open_issues": 406,
+                "last_commit": "2026-09-02T13:04:31Z",
+                "open_issues": 405,
                 "owner": "jsdom",
                 "repo": "jsdom",
-                "stars": 21664,
+                "stars": 21667,
                 "topics": [
                   "dom-apis",
                   "html",
@@ -832,7 +861,7 @@
                 "open_issues": 74,
                 "owner": "matthewmueller",
                 "repo": "x-ray",
-                "stars": 5908,
+                "stars": 5909,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:08:44.950Z"
@@ -860,7 +889,7 @@
             "id": 40621231,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T12:22:11Z",
+            "last_commit": "2026-09-02T07:15:15Z",
             "open_issues": 1,
             "owner": "lorien",
             "repo": "awesome-web-scraping",
@@ -940,7 +969,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T00:16:48.812Z",
+    "last_updated": "2026-09-03T00:18:30.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome browser automation tools and resources",
@@ -948,8 +977,8 @@
       "id": 150856889,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-07-28T14:46:02Z",
-      "open_issues": 19,
+      "last_commit": "2026-09-02T16:18:21Z",
+      "open_issues": 14,
       "owner": "angrykoala",
       "repo": "awesome-browser-automation",
       "stars": 635,
@@ -962,7 +991,7 @@
         "selenium"
       ]
     },
-    "original_repository_sha": "e5cf85a507a7183f782b60379efcc466dac8e2ab",
+    "original_repository_sha": "6f1d2525e769d33aecec26b68196b6c3ac2ceea5",
     "enhanced_repository": "enhansome/enhansome-browser-automation",
     "enhanced_repository_description": null,
     "title": "Awesome Browser Automation with stars"
