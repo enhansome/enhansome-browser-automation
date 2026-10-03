@@ -36,16 +36,16 @@ Access 90M+ residential IPs worldwide with smart rotation, sticky sessions, prec
 
 ## Tools
 
-* [Playwright](https://github.com/microsoft/playwright) ⭐ 97,017 | 🐛 204 | 🌐 TypeScript | 📅 2026-10-03 - Cross-browser web automation platform for Node.js.
-  * [invisible-playwright](https://github.com/feder-cr/invisible_playwright) ⭐ 2,994 | 🐛 2 | 🌐 Python | 📅 2026-10-02 - Drop-in Playwright wrapper that launches a stealth-patched Firefox 150 binary instead of vanilla Firefox.
-* [Puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,643 | 🐛 272 | 🌐 TypeScript | 📅 2026-10-02 - High level API in Node.js to control Chrome.
+* [Playwright](https://github.com/microsoft/playwright) ⭐ 97,022 | 🐛 205 | 🌐 TypeScript | 📅 2026-10-03 - Cross-browser web automation platform for Node.js.
+  * [invisible-playwright](https://github.com/feder-cr/invisible_playwright) ⭐ 2,996 | 🐛 3 | 🌐 Python | 📅 2026-10-03 - Drop-in Playwright wrapper that launches a stealth-patched Firefox 150 binary instead of vanilla Firefox.
+* [Puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,644 | 🐛 272 | 🌐 TypeScript | 📅 2026-10-02 - High level API in Node.js to control Chrome.
   * [Puppeteer-Extra](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra) ⭐ 7,403 | 🐛 275 | 🌐 JavaScript | 📅 2024-07-18 - Plugin support for Puppeteer and several plugins including reCAPTCHA and adblocker.
   * [Pyppeteer](https://github.com/miyakogi/pyppeteer) ⚠️ Archived - Unofficial port of Puppeteer to Python.
   * [Browserless](https://browserless.js.org) - Complementary library for Puppeteer with sensible defaults, adblocker and pooling.
   * [Headless Recorder](https://www.checklyhq.com/docs/headless-recorder) - Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
 * [PhantomJS](https://github.com/ariya/phantomjs) ⚠️ Archived - Headless browser for Node.js.
 * [Nightmare](https://github.com/segmentio/nightmare) ⭐ 19,759 | 🐛 203 | 🌐 JavaScript | 📅 2024-04-20 - High-level browser automation built on top of Electron.
-* [Chromedp](https://github.com/chromedp/chromedp) ⭐ 13,294 | 🐛 180 | 🌐 Go | 📅 2026-07-14 - Browser automation through Chrome DevTools Protocol fully implemented in Go.
+* [Chromedp](https://github.com/chromedp/chromedp) ⭐ 13,295 | 🐛 180 | 🌐 Go | 📅 2026-10-03 - Browser automation through Chrome DevTools Protocol fully implemented in Go.
 * [Capybara](https://github.com/teamcapybara/capybara) ⭐ 10,177 | 🐛 27 | 🌐 Ruby | 📅 2026-07-13 - Driver-agnostic tool and DSL to write automation tests in Ruby.
 * [Codeception](https://github.com/codeception/codeception) ⭐ 4,858 | 🐛 170 | 🌐 PHP | 📅 2026-09-25 - PHP end-to-end testing with BDD style.
 * [CodeceptJS](https://github.com/Codeception/CodeceptJS) ⭐ 4,242 | 🐛 204 | 🌐 JavaScript | 📅 2026-10-03 - BDD style tests with support for multiple headless browsers.
@@ -70,10 +70,10 @@ Access 90M+ residential IPs worldwide with smart rotation, sticky sessions, prec
 
 ### AI
 
-* [Browser-Use](https://github.com/browser-use/browser-use) ⭐ 117,012 | 🐛 533 | 🌐 Python | 📅 2026-10-03 - Python library and service to automate browsing using AI agents and Chrome DevTools Protocol.
-* [Playwright MCP](https://github.com/microsoft/playwright-mcp) ⭐ 37,766 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-28 - Provides browser automation capabilities using [Playwright](https://github.com/microsoft/playwright) ⭐ 97,017 | 🐛 204 | 🌐 TypeScript | 📅 2026-10-03
-* [Skyvern](https://github.com/Skyvern-AI/Skyvern) ⭐ 23,127 | 🐛 272 | 🌐 Python | 📅 2026-10-03 - Use prompts + AI to automate actions in the browser.
-* [CamoFox Browser](https://github.com/jo-inc/camofox-browser) ⭐ 11,369 | 🐛 146 | 🌐 JavaScript | 📅 2026-10-02 - Stealth headless browser for AI agents built on a Firefox fork with C++ fingerprint spoofing to bypass Cloudflare, Akamai, and bot detection.
+* [Browser-Use](https://github.com/browser-use/browser-use) ⭐ 117,019 | 🐛 531 | 🌐 Python | 📅 2026-10-03 - Python library and service to automate browsing using AI agents and Chrome DevTools Protocol.
+* [Playwright MCP](https://github.com/microsoft/playwright-mcp) ⭐ 37,771 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-28 - Provides browser automation capabilities using [Playwright](https://github.com/microsoft/playwright) ⭐ 97,022 | 🐛 205 | 🌐 TypeScript | 📅 2026-10-03
+* [Skyvern](https://github.com/Skyvern-AI/Skyvern) ⭐ 23,128 | 🐛 271 | 🌐 Python | 📅 2026-10-03 - Use prompts + AI to automate actions in the browser.
+* [CamoFox Browser](https://github.com/jo-inc/camofox-browser) ⭐ 11,377 | 🐛 148 | 🌐 JavaScript | 📅 2026-10-02 - Stealth headless browser for AI agents built on a Firefox fork with C++ fingerprint spoofing to bypass Cloudflare, Akamai, and bot detection.
 * [Openwork](https://github.com/accomplish-ai/openwork) ⭐ 10,871 | 🐛 13 | 📅 2026-08-13 - MIT-licensed, open alternative to Anthropic's Cowork. Supports multiple LLM providers for launching computer-use agents to automate browser workflows.
 * [Steel Browser](https://github.com/steel-dev/steel-browser) ⭐ 7,727 | 🐛 74 | 🌐 TypeScript | 📅 2026-09-28 - Open-source browser sandbox and API for AI agents with session-backed automation, screenshots, PDFs, and anti-bot tooling.
 * [Webcmd](https://github.com/agentrhq/webcmd) ⭐ 2,636 | 🐛 51 | 🌐 TypeScript | 📅 2026-09-25 - CLI that learns a site's navigation once and compiles it into reusable deterministic commands for AI agents.
